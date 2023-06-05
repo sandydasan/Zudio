@@ -1,0 +1,34 @@
+{
+  "zudio": [
+    {
+      "typeId": "2",
+      "id": "c7",
+      "name": "Shirts & Pants",
+      "photo": "https://wallpapercave.com/wp/wp4616551.jpg",
+      "rate": "Rs 799/-",
+      "size": " S M L XL"
+    },
+    {
+      "typeId": "Select Type",
+      "id": "45",
+      "name": "ladies",
+      "photo": "https://rare-gallery.com/uploads/posts/322828-Kajal-Aggarwal-Indian-4K-iphone-wallpaper.jpg",
+      "rate": "599/-",
+      "size": " S M L XL"
+    }
+  ],
+  "type": [
+    {
+      "id": "1",
+      "name": "ladies"
+    },
+    {
+      "id": "2",
+      "name": "gents"
+    },
+    {
+      "id": "3",
+      "name": "Kids"
+    }
+  ]
+}
